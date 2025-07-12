@@ -54,7 +54,7 @@ I'm Chukwu Innocent — a software engineer passionate about building scalable, 
 
 ### 📫 Reach Me
 - Twitter: [@centkanayo10](https://twitter.com/centkanayo10)
-- LinkedIn: [cent-kanayo](https://linkedin.com/in/cent-kanayo)
+- LinkedIn: [chukwu-innocent](https://linkedin.com/in/chukwu-innocent)
 - Email: `centkanayo@gmail.com`
 
 ---
