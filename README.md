@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm Cent Kanayo — a software engineer passionate about building scalable, impactful digital platforms across tech, housing, logistics, education, and finance.
+I'm Chukwu Innocent — a software engineer passionate about building scalable, impactful digital platforms across tech, housing, logistics, education, and finance.
 
 ### 🚀 What I Do
 - 🔧 I build **custom WordPress plugins** — form builders, affiliate systems, job boards, payment integrations (M-Pesa, Stripe), and user profile systems tailored to the African market.
-- 🛠️ I develop **backend systems** with Node.js, Express, Prisma, and PostgreSQL — designed for performance, security, and extensibility.
+- 🛠️ I develop **backend systems** with Node.js, Express, PHP, Laravel, Prisma, and PostgreSQL — designed for performance, security, and extensibility.
 - 🌍 I lead and contribute to platforms like:
   - [**Techwriteable**](https://techwriteable.me): A portfolio-as-a-service platform for content and technical writers, complete with analytics and a job board.
   - **LandlordBeware**: A tenant rating and eligibility scoring system helping landlords make better rental decisions.
