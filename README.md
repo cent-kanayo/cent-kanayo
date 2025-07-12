@@ -1,15 +1,14 @@
-## Hi there 👋
+## Hi there, Welcome 👋
 
 I'm Chukwu Innocent — a software engineer passionate about building scalable, impactful digital platforms across tech, housing, logistics, education, and finance.
 
 ### 🚀 What I Do
-- 🔧 I build **custom WordPress plugins** — form builders, affiliate systems, job boards, payment integrations (M-Pesa, Stripe), and user profile systems tailored to the African market.
+- 🔧 I build **custom WordPress plugins** — form builders, affiliate systems, job boards, payment integrations (M-Pesa, Stripe), and user profile systems tailored for all use cases.
 - 🛠️ I develop **backend systems** with Node.js, Express, PHP, Laravel, Prisma, and PostgreSQL — designed for performance, security, and extensibility.
 - 🌍 I lead and contribute to platforms like:
   - [**Techwriteable**](https://techwriteable.me): A portfolio-as-a-service platform for content and technical writers, complete with analytics and a job board.
-  - **LandlordBeware**: A tenant rating and eligibility scoring system helping landlords make better rental decisions.
+  - [**LandlordBeware**](https://landlordbeware.com): A tenant rating and eligibility scoring system helping landlords make better rental decisions.
   - **ToolXchange**: A construction equipment sharing platform designed for trust and operational transparency.
-  - **NGO Connect**: A sponsorship and donation portal connecting donors with orphans, students, and widows in need.
 
 ---
 
@@ -48,15 +47,15 @@ I'm Chukwu Innocent — a software engineer passionate about building scalable, 
 ### 💬 Ask Me About
 - WordPress plugin development from scratch
 - Database structuring with Prisma & PostgreSQL
-- Payment gateway integrations (e.g., M-Pesa, Stripe)
+- Payment gateway integrations (e.g., PayStack, Stripe)
 - Building platforms that are **lean, useful, and future-proof**
 
 ---
 
 ### 📫 Reach Me
-- Twitter: [@centkanayo](https://twitter.com/centkanayo)
+- Twitter: [@centkanayo10](https://twitter.com/centkanayo10)
 - LinkedIn: [cent-kanayo](https://linkedin.com/in/cent-kanayo)
-- Email: `centkanayo [at] gmail [dot] com`
+- Email: `centkanayo@gmail.com`
 
 ---
 
