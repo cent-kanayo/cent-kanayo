@@ -1,6 +1,6 @@
 ## Hi there, Welcome 👋
 
-I'm Chukwu Innocent — a software engineer passionate about building scalable, impactful digital platforms across tech, housing, logistics, education, and finance.
+I'm Chukwu Innocent, a software engineer passionate about building scalable, impactful digital platforms across tech, housing, logistics, education, and finance.
 
 ### 🚀 What I Do
 - 🔧 I build **custom WordPress plugins** — form builders, affiliate systems, job boards, payment integrations (M-Pesa, Stripe), and user profile systems tailored for all use cases.
@@ -60,7 +60,7 @@ I'm Chukwu Innocent — a software engineer passionate about building scalable, 
 ---
 
 ### ⚡ Fun Fact
-I don't just code—I build systems that make life easier for real people. Every project I touch aims to solve a genuine problem, not just tick a box.
+I don't just code, I build systems that make life easier for real people. Every project I touch aims to solve a genuine problem, not just tick a box.
 
 ---
 
